@@ -39,6 +39,7 @@ All four lesson folders are organized in this repository.
 ## Final Submission
 
 This repository contains the Python source files for all four lessons.
+Final version prepared for midterm submission.
 
 ## Git Practice
 
