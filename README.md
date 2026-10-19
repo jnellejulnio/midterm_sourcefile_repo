@@ -31,3 +31,7 @@ This repository contains the Python source files and activities completed for th
 ## Version Control
 
 This project uses Git for version control and GitHub for remote source code hosting.
+
+## Project Status
+
+All four lesson folders are organized in this repository.
