@@ -39,3 +39,7 @@ All four lesson folders are organized in this repository.
 ## Final Submission
 
 This repository contains the Python source files for all four lessons.
+
+## Git Practice
+
+Practiced creating branches, switching branches, and merging changes using Git.
