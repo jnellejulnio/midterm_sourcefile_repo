@@ -35,3 +35,7 @@ This project uses Git for version control and GitHub for remote source code host
 ## Project Status
 
 All four lesson folders are organized in this repository.
+
+## Final Submission
+
+This repository contains the Python source files for all four lessons.
