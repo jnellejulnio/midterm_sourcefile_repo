@@ -20,3 +20,14 @@ This repository contains the Python source files and activities completed for th
 - Visual Studio Code
 - Git
 - GitHub
+
+## Repository Structure
+
+- `Lesson1/` – Python source code for Lesson 1
+- `Lesson2/` – Python source code for Lesson 2
+- `Lesson3/` – Python source code for Lesson 3
+- `Lesson4/` – Python source code for Lesson 4
+
+## Version Control
+
+This project uses Git for version control and GitHub for remote source code hosting.
